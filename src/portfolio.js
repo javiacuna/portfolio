@@ -1,7 +1,7 @@
 const header = {
   // all the properties are optional - can be left empty or deleted
   homepage: 'https://javiacuna.github.io/portfolio',
-  title: 'JS.',
+  title: 'JA.',
 }
 
 const about = {
@@ -10,7 +10,6 @@ const about = {
   role: 'Software Engineer',
   description:
     ' I am Javier, a passionate software developer in my final year of Software Engineering. With a strong programming foundation and a focus on problem-solving, I constantly seek to improve my skills and knowledge in the field of software engineering. My commitment to excellence and my ability to work collaboratively have allowed me to make meaningful contributions in agile development teams. I am eager to take on new challenges and continue growing professionally in this exciting industry.',
-  resume: 'https://example.com',
   social: {
     linkedin: 'https://www.linkedin.com/in/javiereacuna/',
     github: 'https://github.com/javiacuna',
@@ -21,28 +20,28 @@ const projects = [
   // projects can be added an removed
   // if there are no projects, Projects section won't show up
   {
-    name: 'Project 1',
+    name: 'Harriague + Asociados - Claro',
     description:
-      'Amet asperiores et impedit aliquam consectetur? Voluptates sed a nulla ipsa officia et esse aliquam',
-    stack: ['SASS', 'TypeScript', 'React'],
-    sourceCode: 'https://github.com',
-    livePreview: 'https://github.com',
+      'PL/SQL Developer',
+    stack: ['PL/SQL', 'Data Analysis'],
   },
   {
-    name: 'Project 2',
+    name: 'DXC Technology - Arcos Dorados',
     description:
-      'Amet asperiores et impedit aliquam consectetur? Voluptates sed a nulla ipsa officia et esse aliquam',
-    stack: ['SASS', 'TypeScript', 'React'],
-    sourceCode: 'https://github.com',
-    livePreview: 'https://github.com',
+      'Level 2 Support',
+    stack: ['PL/SQL', 'Data Analysis', 'Oracle Forms'],
   },
   {
-    name: 'Project 3',
+    name: 'AR Consultores - Claro',
     description:
-      'Amet asperiores et impedit aliquam consectetur? Voluptates sed a nulla ipsa officia et esse aliquam',
-    stack: ['SASS', 'TypeScript', 'React'],
-    sourceCode: 'https://github.com',
-    livePreview: 'https://github.com',
+      'Network Performance Engineer',
+    stack: ['PL/SQL', 'Java', 'Pentaho','NoSQL'],
+  },
+  {
+    name: 'Mercado Libre - Mercado Credito',
+    description:
+      'Ssr Software Engineer',
+    stack: ['Golang', 'Java', 'MySQL','NoSQL', 'UML'],
   },
 ]
 
