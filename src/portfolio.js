@@ -9,11 +9,11 @@ const about = {
   name: 'Javier Emiliano Acuña',
   role: 'Software Engineer',
   description:
-    'Adipisicing sit fugit ullam unde aliquid sequi Facilis soluta facilis perspiciatis corporis nulla aspernatur. Autem eligendi rerum delectus modi quisquam? Illo ut quasi nemo ipsa cumque perspiciatis! Maiores minima consectetur.',
+    ' I am Javier, a passionate software developer in my final year of Software Engineering. With a strong programming foundation and a focus on problem-solving, I constantly seek to improve my skills and knowledge in the field of software engineering. My commitment to excellence and my ability to work collaboratively have allowed me to make meaningful contributions in agile development teams. I am eager to take on new challenges and continue growing professionally in this exciting industry.',
   resume: 'https://example.com',
   social: {
-    linkedin: 'https://linkedin.com',
-    github: 'https://github.com',
+    linkedin: 'https://www.linkedin.com/in/javiereacuna/',
+    github: 'https://github.com/javiacuna',
   },
 }
 
@@ -59,13 +59,13 @@ const skills = [
   'Material UI',
   'Git',
   'CI/CD',
-  'Jest',
-  'Enzyme',
+  'Java',
+  'Golang',
 ]
 
 const contact = {
   // email is optional - if left empty Contact section won't show up
-  email: 'johnsmith@mail.com',
+  email: 'javi.emiliano@gmail.com',
 }
 
 export { header, about, projects, skills, contact }
